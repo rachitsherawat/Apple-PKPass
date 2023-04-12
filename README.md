@@ -90,10 +90,11 @@ Move the signpass executable to the Documents folder.
 
 To sign and compress the pass, use the signpass tool to sign the pass package. In Terminal, run the following commands:
 
-1.```bash
+```bash
 cd ~/Desktop
 ```
-2. ```bash ./signpass -p macbook.pass
+```bash
+./signpass -p macbook.pass
 ```
 
 
