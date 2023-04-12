@@ -92,7 +92,7 @@ To sign and compress the pass, use the signpass tool to sign the pass package. I
 
 ```bash
 cd ~/Desktop
-./signpass -p apple_pass.pass
+./signpass -p macbook.pass
 ```
 
 
