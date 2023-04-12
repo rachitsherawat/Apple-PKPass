@@ -90,10 +90,12 @@ Move the signpass executable to the Documents folder.
 
 To sign and compress the pass, use the signpass tool to sign the pass package. In Terminal, run the following commands:
 
-```bash
+1. ```bash
 cd ~/Desktop
-./signpass -p macbook.pass
 ```
+2. ```./signpass -p macbook.pass
+```
+
 
 
 These commands create a signed and compressed pass named Lollipop.pkpass in the Documents folder. If the signpass command fails, make sure you are using your correct pass type identifier and check that the pass.json file contains valid JSON.
