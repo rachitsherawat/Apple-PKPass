@@ -91,7 +91,7 @@ Move the signpass executable to the Documents folder.
 To sign and compress the pass, use the signpass tool to sign the pass package. In Terminal, run the following commands:
 
 ```bash
-cd ~/Documents
+cd ~/Desktop
 ./signpass -p Lollipop.pass
 ```
 
